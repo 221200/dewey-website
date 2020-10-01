@@ -2,7 +2,7 @@
 
 ### Dewey is a [Chrome app](https://chrome.google.com/webstore/detail/dewey-bookmarks/aahpfefkmihhdabllidnlipghcjgpkdm) for tagging, searching and sorting your Chrome bookmarks.
 
-**With Dewey you can:**
+**With Dewey you can do:**
 
 - Add custom tags
 - Generate screenshots of your bookmarks
@@ -13,7 +13,7 @@
 
 Help us to switch to more [powerful server](https://www.digitalocean.com/pricing/) (we are using it to [generate screenshots](https://github.com/deweyapp/dewey-server)).
 
-### PayPal
+### The Famous Paypal
 
 [![PayPal](https://raw.githubusercontent.com/deweyapp/dewey-website/master/docs/images/donate.png "PayPal Donation")](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=outcoldman%40gmail%2ecom&lc=US&item_name=Donation%20for%20supporting%20bookmarks%20application&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted)
 
@@ -70,7 +70,7 @@ There is also an option for Dewey to ignore Chrome Bookmarks top-level folders. 
 #### [More on how to use Dewey](docs/how-to-use-dewey.md) →
 
 
-## Install on the Chrome Web Store
+## Install from the Chrome Web Store
 
 [![install](docs/images/install.png)](https://chrome.google.com/webstore/detail/dewey-bookmarks/aahpfefkmihhdabllidnlipghcjgpkdm)
 
@@ -84,7 +84,7 @@ It would be helpful if we could occasionally email you questions about Dewey. If
 [![subscribe](docs/images/subscribe.png)](http://eepurl.com/OeXtX)
 
 
-## Icons
+## Icons(i)
 All icons used in this application are released to the public with No Copyright (CC0 1.0 Universal (CC0 1.0) Public Domain Dedication). 
 
 [![icons](docs/images/icons.png)](http://lyrv.lt/2mF0KiGLQs)
